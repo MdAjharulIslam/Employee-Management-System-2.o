@@ -1,0 +1,7 @@
+1,   John Doe,    Sales,    Manager, 75000, 0
+3,   Bob Brown,    IT,    Developer, 60000, 0
+4,   Alice White,    Marketing,   Coordinator, 50000, 0
+6,   ajhar,    f,    rg, 876543, 0
+2,   ajhr,   sels,   manager, 325465, 0
+10,  hello,   sels,   sso, 36784, 0
+11,  harun,  sels,  manager, 65000, 0
